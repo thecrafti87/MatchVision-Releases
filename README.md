@@ -2,7 +2,7 @@
 
 MatchVision liest Anzeigetafeln in Echtzeit: Spielstand, Uhr, Namen und alles, was sonst auf der Tafel steht. Die Werte gibt es an andere Programme weiter, zum Beispiel an eine Grafik im Livestream.
 
-Aktuelle Version: **0.5.0**
+Aktuelle Version: **0.6.0**
 
 ## Installieren
 
